@@ -7,7 +7,7 @@ name: Generate Snake
 # Управляет запуском действия. Это действие выполняется каждые 6 часов.
 on:
   schedule:
-      # every 6 hours
+      # every 144 hours 1 week
     - cron: "0 */144 * * *"
 
 # This command allows us to run the Action automatically from the Actions tab.
