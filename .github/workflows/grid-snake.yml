@@ -31,7 +31,7 @@ jobs:
 
 
     # Generates the snake
-      - uses: Platane/snk@v3.0.0
+      - uses: Platane/snk@v3
     # - uses: Platane/snk@master
         id: snake-gif
         with:
