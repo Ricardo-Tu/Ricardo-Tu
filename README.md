@@ -42,7 +42,6 @@
 | **Tools**                                 | ![docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&color=2C3454) ![kubernetes](https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) [![IDA](https://img.shields.io/badge/IDA-E34F26?style=for-the-badge&logoColor=white)](https://hex-rays.com/ida-pro/) [![ghidra](https://img.shields.io/badge/-ghidra-01D277?style=for-the-badge&logoColor=white)](https://github.com/NationalSecurityAgency/ghidra) [![x64 dbg](https://img.shields.io/badge/-x64_dbg-01D277?style=for-the-badge&logoColor=white)](https://x64dbg.com/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-<!-- [![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BEPb&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
 ![Ricardo-Tu's github activity graph](https://github.com/Ricardo-Tu/Ricardo-Tu/blob/output/github-contribution-grid-snake.svg)
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
@@ -56,9 +55,6 @@
 <!--   grid-snake -->
 ![](https://github.com/Ricardo-Tu/Ricardo-Tu/blob/output/github-contribution-grid-snake.svg)
 
-<!--   skyline 
-<a href="https://skyline.github.com/BEPb/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
 <!--  2d history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Ricardo-Tu" width="auto"></img>
@@ -72,7 +68,7 @@
 
 
 
-<!-- Belarus - My Home-->
+<!-- China - My Home-->
   
  ```geojson
 {
@@ -85,11 +81,10 @@
        "ID": 0
      },
      "geometry": {
-       "type": "Polygon",
+       "type": "China",
        "coordinates": [
          [
-             [23.5,53.9],
-             [32.6,52.6]
+             [116.4074, 39.9042]
          ]
        ]
      }
