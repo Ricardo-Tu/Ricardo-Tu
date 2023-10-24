@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Zhonghui+Wu;+Welcome+to+My+Profile!;Over+8+years+of+programming+study+experience;Like+to+learn+new+things+;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+👋,+I+am+Zhonghui+Wu+!;+Welcome+to+My+Profile+!;+Over+8+years+of+programming+study+experience+.;+Like+to+learn+new+things+.;)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
